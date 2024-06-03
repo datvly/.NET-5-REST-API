@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x9DZ874RNGzqpZ/AqtQdrhYqQUxQH2kvH0ETCbz6KkI3boSDlVgiPNOnDJB6nR/c04H5RKSsoO8XPkFAKZNokw==",
+  "dgSpecHash": "zQRMOo1IiJyRAB+QSr1VLbLoC+o1bm0qyIDwrSh66vehDU9zbLrddfalbEZ5C3ZYcBvK0VnpPFlPmEpExhZsXg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dat Ly\\Desktop\\Github\\.NET-5-REST-API\\GameStore.Api\\GameStore.Api.csproj",
+  "projectFilePath": "C:\\Users\\Dat Ly\\Desktop\\Github\\GameStore\\Gamestore.Api\\GameStore.Api.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

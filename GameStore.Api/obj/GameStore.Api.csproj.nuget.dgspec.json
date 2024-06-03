@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dat Ly\\Desktop\\Github\\.NET-5-REST-API\\GameStore.Api\\GameStore.Api.csproj": {}
+    "C:\\Users\\Dat Ly\\Desktop\\Github\\GameStore\\Gamestore.Api\\GameStore.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dat Ly\\Desktop\\Github\\.NET-5-REST-API\\GameStore.Api\\GameStore.Api.csproj": {
+    "C:\\Users\\Dat Ly\\Desktop\\Github\\GameStore\\Gamestore.Api\\GameStore.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dat Ly\\Desktop\\Github\\.NET-5-REST-API\\GameStore.Api\\GameStore.Api.csproj",
+        "projectUniqueName": "C:\\Users\\Dat Ly\\Desktop\\Github\\GameStore\\Gamestore.Api\\GameStore.Api.csproj",
         "projectName": "GameStore.Api",
-        "projectPath": "C:\\Users\\Dat Ly\\Desktop\\Github\\.NET-5-REST-API\\GameStore.Api\\GameStore.Api.csproj",
+        "projectPath": "C:\\Users\\Dat Ly\\Desktop\\Github\\GameStore\\Gamestore.Api\\GameStore.Api.csproj",
         "packagesPath": "C:\\Users\\Dat Ly\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dat Ly\\Desktop\\Github\\.NET-5-REST-API\\GameStore.Api\\obj\\",
+        "outputPath": "C:\\Users\\Dat Ly\\Desktop\\Github\\GameStore\\Gamestore.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dat Ly\\AppData\\Roaming\\NuGet\\NuGet.Config",
